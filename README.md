@@ -8,9 +8,9 @@ Los nodos se organizan por niveles, en el nivel superior están los padres y en 
 Los nodos cuyo color de fondo concida con el de un nivel superior, son nodos hoja y tienen relación de padre hijo. Esto significa que el campo padre está compuesto y deriva en los nodos hijos. Los hijos no tienen más derivaciones.
 Los nodos situados debajo del padre pero cuyo color no coincida con el del padre, tienen a su vez otros nodos hijos, es decir, campos derivados de él. 
 
-- El fichero "ALIENVAULT_def.draw.io" incluye la estructura utilizada para los ficheros obtenidos de Alienvault OTX. 
-- El fichero "CPES_def" incluye la estructura para los CPEs obtenidos.
+- El fichero "ALIENVAULT_def.draw.io" incluye la estructura utilizada para los ficheros obtenidos de Alienvault OTX. Para este caso, todos los campos utilizados por Alienvault, no tienen relación de padre/hijo, no existen derivaciones de campos. Los campos "Labels", "Object_refs" y "Aliases" pueden estar compuestos por listas de valores.
+- El fichero "CPES_def" incluye la estructura para los CPEs obtenidos.Los campos "refs" y "titles" pueden contener múltiples valores.
 - El fichero "CVES_DEF" incluye la estructura para los CVES obtenidos.
-- El fichero "IBM_def" incluye la estructura para los informes y vulnerabilidades obtenidos de IBM XForce Exchange.
+- El fichero "IBM_def" incluye la estructura para los informes y vulnerabilidades obtenidos de IBM XForce Exchange. Los nodos en color azul son campos utilizados exclusivamente para describir vulnerabilidades. El resto se utiliza para describir los objetos de IBM, no específicos de vulnerabilidades.
 
 Para visualizar los esquemas, es necesario acceder a https://app.diagrams.net/ e importar estos esquemas.
