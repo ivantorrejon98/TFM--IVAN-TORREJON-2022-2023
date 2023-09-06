@@ -10,3 +10,7 @@ Para los informes de grupos de amenazas y sector de IBM XForce Exchange se obtie
 En la carpeta "ANÁLISIS CAMPOS INDIVIDUALES/" se encuentran los ficheros Excel, nombrados según la fuente analizada, en los que se
 encuentran los detalles estudiados del análisis de campos de forma individual y el resultado de estos análisis. En el archivo 
 "README.md" dentro de la carpeta "ANÁLISIS CAMPOS INDIVIDUALES/" se encuentra más información sobre estos ficheros.
+
+
+En la carpeta "ANÁLISIS RELACION COLUMNAS/" se encuentran los ficheros Excel, nombrados según la fuente analizada, en los que se
+encuentran los detalles estudiados del análisis de relación entre campos y el resultado de estos análisis, incluyendo tablas y gráficos. En el archivo  "README.md" dentro de la carpeta "ANÁLISIS RELACIÓN COLUMNAS/" se encuentra más información sobre estos ficheros.
