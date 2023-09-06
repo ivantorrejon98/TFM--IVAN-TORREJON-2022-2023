@@ -9,4 +9,6 @@ Cada uno de los archivos python está nombrado con la fuente a la que pertenece 
 En la carpeta "ANÁLISIS CAMPOS INDIVIDUALES/" se encuentran los ficheros Python en carpetas, nombradas según la fuente analizada, en los que se estudian los detalles del análisis de campos de forma individual para obtener resultado de estos análisis. En el archivo 
 "README.md" dentro de la carpeta "ANÁLISIS CAMPOS INDIVIDUALES/" se encuentra más información sobre estos ficheros.
 
+En la carpeta "ANÁLISIS RELACIÓN COLUMNAS/" se encuentran los ficheros Python clasfiicados en carpetas, nombradas según la fuente analizada, en los que se estudian los detalles del análisis de relación entre campos de cada una de las fuentes, para obtener resultado de estos análisis. En el archivo  "README.md" dentro de la carpeta "ANÁLISIS RELACIÓN COLUMNAS/" se encuentra más información sobre estos ficheros.
+
 Los ficheros "ibm_grupo_amenazas" e "ibm_sector" no contienen en su nombre "IOT" O "Smart Home" debido a que la búsqueda para los dos términos devuelve los mismos resultados.
