@@ -14,3 +14,5 @@ encuentran los detalles estudiados del análisis de campos de forma individual y
 
 En la carpeta "ANÁLISIS RELACION COLUMNAS/" se encuentran los ficheros Excel, nombrados según la fuente analizada, en los que se
 encuentran los detalles estudiados del análisis de relación entre campos y el resultado de estos análisis, incluyendo tablas y gráficos. En el archivo  "README.md" dentro de la carpeta "ANÁLISIS RELACIÓN COLUMNAS/" se encuentra más información sobre estos ficheros.
+
+En la carpeta "ANÁLISIS RELACION FUENTES/" se encuentra el fichero Excel que recoge los resultados y detalles de los análisis realizados para la relación entre distintas fuentes. En cada hoja del fichero Excel se detallan los campos entre los que se ha buscado relación y de qué fuente son esos campos, los umbrales tenidos en cuenta para representar los resultados en gráficos y tablas, la explicación de la relación, posibles valores, y referencias. 
